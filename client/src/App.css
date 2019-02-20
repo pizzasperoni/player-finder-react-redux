@@ -1,0 +1,36 @@
+.filterable-table {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+} 
+.filterable-table form {
+  justify-content: center;
+}
+
+.filterable-table .table {
+  margin: auto;
+  width: 70%;
+  border: 1px solid #cecece
+}
+
+
+
+header {
+  color: white;
+  background-color: darkslategray;
+  display: flex;
+  margin: auto;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+  width: 70%;
+}
+Form div {
+  padding: 20px;
+}
+header h1 {
+  font-family: "Helvetica";
+  font-size: 30px;
+  font-weight: bold;
+}
